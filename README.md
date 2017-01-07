@@ -46,6 +46,14 @@
 - Nginx
 
 
+## 登壇歴
+| Date | Event | Slide |
+| ---- | ----- | ----- |
+|2015/07/14|【第19回】potatotips(iOS/Android開発Tips共有会)|[Push通知を届けるために](https://speakerdeck.com/futaboooo/pushtong-zhi-wojie-kerutameni)|
+|2016/01/22|オープンソースライブラリ研究会 #3|[TryDateLibraryofAndroid](https://speakerdeck.com/futaboooo/trydatelibraryofandroid)|
+|2016/02/05|エンジニアサポートCROSS2016(アンカンファレンス)|エウレカで行っている勉強会について(飛び込みで社内の取り組みについて発表)|
+
+
 ## 職務経歴
 
 - 2012/04 株式会社ボルテージ 入社
