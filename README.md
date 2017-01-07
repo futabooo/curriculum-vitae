@@ -11,6 +11,41 @@
 |SlideShare|[takahiro futagawa](http://www.slideshare.net/TakahiroFutagawa)|
 |Speakerdeck|[futabooo](https://speakerdeck.com/futaboooo)|
 
+## テクニカルスキル
+### OS
+- Android
+    - 4年
+	- 要件に応じた開発が可能
+- iOS
+    - 3ヶ月
+	- 簡単な機能追加・保守・運用が可能
+
+### 言語
+- Java
+    - 4年
+	- Android開発に特化したプログラミングが可能
+- golang
+    - 6ヶ月
+- TypeScript
+    - 6ヶ月
+- Objective-C
+    - 3ヶ月
+- Perl
+    - 3ヶ月
+- C#
+    - 3ヶ月
+
+### DB
+- SQLite
+- MySQL
+- PostgreSQL
+- DynamoDB
+
+### その他ミドルウェア、サーバー等
+- Apache
+- Nginx
+
+
 ## 職務経歴
 
 - 2012/04 株式会社ボルテージ 入社
