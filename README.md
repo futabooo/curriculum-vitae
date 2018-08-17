@@ -1,4 +1,6 @@
 ## Curriculum-vivate
+[![CircleCI](https://circleci.com/gh/futabooo/curriculum-vitae/tree/master.svg?style=svg)](https://circleci.com/gh/futabooo/curriculum-vitae/tree/master)
+
 This Repository is  [futabooo's](https://github.com/futabooo/) Curriculum Vivate
 
 - [English](https://github.com/futabooo/curriculum-vitae/tree/master/en)
