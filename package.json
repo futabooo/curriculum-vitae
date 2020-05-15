@@ -1,0 +1,23 @@
+{
+  "name": "curriculum-vitae",
+  "version": "1.0.0",
+  "description": "This Repository is  [futabooo's](https://github.com/futabooo/) Curriculum Vitae",
+  "main": "md2pdf.js",
+  "dependencies": {
+    "markdown-pdf": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futabooo/curriculum-vitae.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/futabooo/curriculum-vitae/issues"
+  },
+  "homepage": "https://github.com/futabooo/curriculum-vitae#readme"
+}
