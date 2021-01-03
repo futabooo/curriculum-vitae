@@ -5,16 +5,20 @@
 |||
 |---|-----|
 |Name|Takahiro Futagawa|
-|Blog|[WhereToStart](http://futabooo.hatenablog.com/)|
+|Blog|[futabooo blog](http://futabooo.hatenablog.com/)|
 |Twitter|[@futabooo](https://twitter.com/futabooo)|
 |Qiita|[futabooo](http://qiita.com/futabooo)|
 |SlideShare|[takahiro futagawa](http://www.slideshare.net/TakahiroFutagawa)|
 |Speakerdeck|[futabooo](https://speakerdeck.com/futaboooo)|
 
 ## Experience
+
+- 10X, Inc.
+    - Software Engineer
+        - 2020/07 - now
 - eureka, Inc.
     - Software Engineer
-        - Pairs Engage Division 2019/05 - now
+        - Pairs Engage Division 2019/05 - 2020/06
             - `Android`
             - Product backlog sorted by priority and development in Kanban
         - Pairs Division 2016/04 - 2019/04
@@ -80,6 +84,7 @@ The most memorable thing is that we have implemented an emoticon unique to the a
 |Kotlin|:star::star::star::star:|
 |Java|:star::star::star::star:|
 |Go|:star:|
+|Dart|:star:|
 |TypeScript|:star:|
 |Scrum (software development)|:star::star::star::star:|
 |ScrumMaster|:star::star::star:|

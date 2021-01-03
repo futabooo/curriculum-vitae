@@ -5,7 +5,7 @@
 |||
 |---|-----|
 |Name|二川隆浩（Takahiro Futagawa）|
-|Blog|[WhereToStart](http://futabooo.hatenablog.com/)|
+|Blog|[futabooo blog](http://futabooo.hatenablog.com/)|
 |Twitter|[@futabooo](https://twitter.com/futabooo)|
 |Qiita|[futabooo](http://qiita.com/futabooo)|
 |SlideShare|[takahiro futagawa](http://www.slideshare.net/TakahiroFutagawa)|
@@ -13,9 +13,12 @@
 
 ## 職務経歴
 
+- 株式会社10X
+    - Software Engineer
+        - 2020/07 - 現在
 - 株式会社エウレカ
     - Software Engineer
-        - Pairsエンゲージ事業部 2019/05 - 現在
+        - Pairsエンゲージ事業部 2019/05 - 2020/06
             - `Android`
             - 優先順位が高いものから順に並んだプロダクトバックログとカンバンでのDoing管理での開発
         - Pairs事業部 2016/04 - 2019/05
@@ -81,6 +84,7 @@ Androidを中心にiOSやWebフロントエンド、サーバーサイド開発�
 |Kotlin|:star::star::star::star:|
 |Java|:star::star::star::star:|
 |Go|:star:|
+|Dart|:star:|
 |TypeScript|:star:|
 |スクラム開発|:star::star::star::star:|
 |スクラムマスター|:star::star::star:|
