@@ -4,7 +4,7 @@
   "description": "This Repository is  [futabooo's](https://github.com/futabooo/) Curriculum Vitae",
   "main": "md2pdf.js",
   "dependencies": {
-    "markdown-pdf": "^10.0.0"
+    "markdown-pdf": "^11.0.0"
   },
   "devDependencies": {},
   "scripts": {
