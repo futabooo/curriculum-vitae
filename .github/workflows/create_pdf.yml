@@ -10,6 +10,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: "16.9.1"
+      - name: install japanese font
+        run: sudo apt install fonts-sawarabi-gothic
       - run: |
           npm install
           node ./md2pdf.js
