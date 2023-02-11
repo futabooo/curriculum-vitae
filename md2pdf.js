@@ -1,9 +1,5 @@
 var markdownpdf = require("markdown-pdf");
 
-// markdownpdf().from("./jp/README.md").to("./jp/README.pdf", function () {
-// console.log("Done")
-// })
-
 var mdDocs = ["./jp/README.md", "./en/README.md"],
   pdfDocs = mdDocs.map(function (d) {
     return d.replace("README.md", "curriculum-vitae.pdf");

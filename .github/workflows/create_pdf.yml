@@ -18,14 +18,6 @@ jobs:
       - run: |
           npm install
           node ./md2pdf.js
-      - uses: actions/upload-artifact@v1
-        with:
-          name: jp-pdf
-          path: ./jp/README.pdf
-      - uses: actions/upload-artifact@v1
-        with:
-          name: en-pdf
-          path: ./en/README.pdf
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
