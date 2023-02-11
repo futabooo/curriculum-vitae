@@ -39,9 +39,18 @@
         - Maintenance operation of Android and iOS
 
 ## Project
+### Vertical SaSS of retail chain EC [Stailer](https://stailer.jp/)
+- Category：SaSS
+- Period：2020/07 - now
+- Assigned Process：Planning,requirement definition,design,coding,testing,maintenance/operation
+- Technology：Flutter、Dart、Nuxt、GCP、GitHubActions
+```
+add functions and maintain and operate Flutter apps, and ServerSide adds and maintains functions on Dart and GCP.
+```
+
 ### Marriage concierge service [Pairsエンゲージ](https://engage.pairs.lv/)
 - Category：Smartphone Application
-- Period：2019/05 - now
+- Period：2019/05 - 2020/06
 - Assigned Process：Planning,requirement definition,design,coding,testing,maintenance/operation,data analysis
 - Technology：Android、Kotlin、Fastlane、Bitrise
 ```
@@ -80,6 +89,7 @@ The most memorable thing is that we have implemented an emoticon unique to the a
 ## Skills
 | スキル | レベル |
 |--|--|
+|Flutter|:star::star:|
 |Android|:star::star::star::star::star:|
 |Kotlin|:star::star::star::star:|
 |Java|:star::star::star::star:|

@@ -38,9 +38,18 @@
         - ノベルゲームのAndroid版、iOS版の保守運用
 
 ## プロジェクト
+### 小売チェーンのECを垂直立ち上げ [Stailer](https://stailer.jp/)
+- カテゴリ：SaSS
+- 期間：2020/07 - 現在
+- 担当工程：企画、要件定義、設計、コーディング、テスト、保守/運用
+- 技術：Flutter、Dart、Nuxt、GCP、GitHubActions
+```
+Flutterアプリの機能追加・保守運用、またServerSideはDartとGCPでの機能追加・保守運用を行っています。
+```
+
 ### 結婚コンシェルジュサービス [Pairsエンゲージ](https://engage.pairs.lv/)
 - カテゴリ：スマホアプリ
-- 期間：2019/05 - 現在
+- 期間：2019/05 - 2020/06
 - 担当工程：企画、要件定義、設計、コーディング、テスト、保守/運用、データ分析
 - 技術：Android、Kotlin、Fastlane、Bitrise
 ```
@@ -80,6 +89,7 @@ Androidを中心にiOSやWebフロントエンド、サーバーサイド開発�
 ## テクニカルスキル
 | スキル | レベル |
 |--|--|
+|Flutter|:star::star:|
 |Android|:star::star::star::star::star:|
 |Kotlin|:star::star::star::star:|
 |Java|:star::star::star::star:|
