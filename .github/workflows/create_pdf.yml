@@ -1,5 +1,8 @@
 name: Create PDF
-on: push
+on:
+  push:
+    tags:
+    - 'v*'
 
 jobs:
   create_pdf_job:
@@ -23,3 +26,9 @@ jobs:
         with:
           name: en-pdf
           path: ./en/README.pdf
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            ./jp/curriculum-vitae.pdf
+            ./en/curriculum-vitae.pdf

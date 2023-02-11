@@ -6,7 +6,7 @@ var markdownpdf = require("markdown-pdf");
 
 var mdDocs = ["./jp/README.md", "./en/README.md"],
   pdfDocs = mdDocs.map(function (d) {
-    return d.replace(".md", ".pdf");
+    return d.replace("README.md", "curriculum-vitae.pdf");
   });
 
 markdownpdf({ cssPath: "./pdfstyle.css" })
