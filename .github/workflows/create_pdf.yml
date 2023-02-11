@@ -22,5 +22,5 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            ./jp/curriculum-vitae.pdf
-            ./en/curriculum-vitae.pdf
+            curriculum-vitae-jp.pdf
+            curriculum-vitae-en.pdf

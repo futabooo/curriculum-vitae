@@ -2,7 +2,11 @@ var markdownpdf = require("markdown-pdf");
 
 var mdDocs = ["./jp/README.md", "./en/README.md"],
   pdfDocs = mdDocs.map(function (d) {
-    return d.replace("README.md", "curriculum-vitae.pdf");
+    if (d.includes("jp")) {
+      return "curriculum-vitae-jp.pdf";
+    } else {
+      return "curriculum-vitae-en.pdf";
+    }
   });
 
 markdownpdf({ cssPath: "./pdfstyle.css" })
