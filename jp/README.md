@@ -16,6 +16,7 @@
 - 株式会社10X
     - Software Engineer
         - 2020/07 - 現在
+        - `Flutter`, `Dart`, `GCP`, 
 - 株式会社エウレカ
     - Software Engineer
         - Pairsエンゲージ事業部 2019/05 - 2020/06
@@ -44,7 +45,11 @@
 - 担当工程：企画、要件定義、設計、コーディング、テスト、保守/運用
 - 技術：Flutter、Dart、Nuxt、GCP、GitHubActions
 ```
-Flutterアプリの機能追加・保守運用、またServerSideはDartとGCPでの機能追加・保守運用を行っています。
+15番目の社員として入社しStailerの初期リリース時の機能開発をいくつか行いました。
+当時は1機能のClientとServerを1人ですべて開発していくスタイルでしたので、これまでほぼ未経験のServer Sideの開発も経験しました。
+
+初期リリース以降も新規パートナーのリリースや機能の追加保守運用など、ほぼ全ての工程にかかわり、
+Flutterアプリの機能追加・保守運用、またServer SideはDartとGCPでの機能追加・保守運用を行っています。
 ```
 
 ### 結婚コンシェルジュサービス [Pairsエンゲージ](https://engage.pairs.lv/)
@@ -60,6 +65,8 @@ Flutterアプリの機能追加・保守運用、またServerSideはDartとGCP�
 そこで知り合いのAndroidエンジニアに声をかけたところ副業で1人、業務委託で1人3ヶ月の短期間のみ手伝ってくれる人を見つけることができ、なんとかリリース日の3日前にQAのまで完了してリリースできる状態まで持っていくことができました。
 
 このプロジェクトではJiraをタスク管理に使っていましたが、手伝ってくれる二人には社内のセキュリティの都合上Jiraの閲覧権限を付与することができずGithubProjectsを使いました。社内の企画・要件定義のミーティングを経てタスク化されたJiraチケットの内容をGithubIssueにコピーすることで3人での開発の管理を行っていました。Issueには優先順位をつけ、手が空いたら上から順番に自分でIssueを取っていけばいい状態にすることで私自身が極力プロジェクトマネジメント的なことをせずにコードを書く時間を確保するように心がけていました。
+
+またこのプロジェクトのリリースをきっかけに親会社であるMatch GroupのALL-STARSというものに選ばれて表彰されました。
 ```
 
 ### オンラインデーティングサービス　[Pairs](https://www.pairs.lv/)
@@ -89,7 +96,7 @@ Androidを中心にiOSやWebフロントエンド、サーバーサイド開発�
 ## テクニカルスキル
 | スキル | レベル |
 |--|--|
-|Flutter|:star::star:|
+|Flutter|:star::star::star:|
 |Android|:star::star::star::star::star:|
 |Kotlin|:star::star::star::star:|
 |Java|:star::star::star::star:|

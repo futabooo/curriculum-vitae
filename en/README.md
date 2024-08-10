@@ -45,7 +45,11 @@
 - Assigned Process：Planning,requirement definition,design,coding,testing,maintenance/operation
 - Technology：Flutter、Dart、Nuxt、GCP、GitHubActions
 ```
-add functions and maintain and operate Flutter apps, and ServerSide adds and maintains functions on Dart and GCP.
+I joined as the 15th employee and developed several features for the initial release of Stailer.
+At that time, the style was to develop both the client and server sides of a feature by oneself, so I gained experience in server-side development, which I had almost no prior experience with.
+
+Since the initial release, I have been involved in almost all processes, including the release of new partners and the addition, maintenance, and operation of features.
+I have been adding and maintaining features for the Flutter app, as well as adding and maintaining server-side features using Dart and GCP.
 ```
 
 ### Marriage concierge service [Pairsエンゲージ](https://engage.pairs.lv/)
@@ -61,6 +65,8 @@ The release date was fixed and it was necessary to take it from 0 to release in 
 So when I talked to an acquainted Android engineer, I was able to find one person on a side job, one person outsourcing to help only for a short period of three months, and managed to complete QA three days before the release date I was able to take it to a state where it could be released.
 
 In this project, I used Jira for task management, but I couldn't give the two people who help me access to Jira because of internal security, so I used GithubProjects. We managed the development by three people by copying the contents of the tasked Jira ticket to GithubIssue after the meeting of internal planning and requirement definition. Priorities are assigned to issues, and if you have free time, you can take issues yourself in order from the top, so that I can save time writing code without doing project management as much as possible I was trying to do it.
+
+I was also selected for the ALL-STARS award by our parent company, Match Group, in recognition of the release of this project.
 ```
 
 ### Online dating service　[Pairs](https://www.pairs.lv/)
@@ -89,7 +95,7 @@ The most memorable thing is that we have implemented an emoticon unique to the a
 ## Skills
 | スキル | レベル |
 |--|--|
-|Flutter|:star::star:|
+|Flutter|:star::star::star:|
 |Android|:star::star::star::star::star:|
 |Kotlin|:star::star::star::star:|
 |Java|:star::star::star::star:|
