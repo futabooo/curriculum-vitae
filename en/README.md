@@ -16,6 +16,7 @@
 - 10X, Inc.
     - Software Engineer
         - 2020/07 - now
+        - `Flutter`, `Dart`, `GCP`,
 - eureka, Inc.
     - Software Engineer
         - Pairs Engage Division 2019/05 - 2020/06

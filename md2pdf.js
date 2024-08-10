@@ -1,18 +1,13 @@
-var markdownpdf = require("markdown-pdf");
+const fs = require("fs");
+const { mdToPdf } = require("md-to-pdf");
 
-var mdDocs = ["./jp/README.md", "./en/README.md"],
-  pdfDocs = mdDocs.map(function (d) {
-    if (d.includes("jp")) {
-      return "curriculum-vitae-jp.pdf";
-    } else {
-      return "curriculum-vitae-en.pdf";
-    }
-  });
-
-markdownpdf({ cssPath: "./pdfstyle.css" })
-  .from(mdDocs)
-  .to(pdfDocs, function () {
-    pdfDocs.forEach(function (d) {
-      console.log("Created", d);
-    });
-  });
+(async () => {
+  await mdToPdf(
+    { path: "./jp/README.md" },
+    { dest: "./curriculum-vitae-jp.pdf" }
+  );
+  await mdToPdf(
+    { path: "./en/README.md" },
+    { dest: "./curriculum-vitae-en.pdf" }
+  );
+})();
