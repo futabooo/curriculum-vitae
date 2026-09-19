@@ -4,7 +4,7 @@
   "description": "This Repository is  [futabooo's](https://github.com/futabooo/) Curriculum Vitae",
   "main": "md2pdf.js",
   "dependencies": {
-    "md-to-pdf": "^5.2.4"
+    "md-to-pdf": "^5.2.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
